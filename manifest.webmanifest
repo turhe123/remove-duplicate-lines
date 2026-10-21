@@ -1,0 +1,17 @@
+{
+  "name": "Remove Duplicate Lines and Sort",
+  "short_name": "Remove Dupli",
+  "description": "Remove duplicate lines, sort and clean a list in your browser, with a count of what was removed and nothing uploaded. Free and open source, nothing is uploaded,",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5b4bdb",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
